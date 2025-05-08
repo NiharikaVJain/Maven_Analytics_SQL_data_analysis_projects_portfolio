@@ -6,13 +6,13 @@
 
 -[Overview: Project Scope](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-project-scope) 
 
--[Data Sources](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#data-source)
+-[Data Sources](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-data-source)
 
--[Tools and Technologies](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#tools-&-technologies)
+-[Tools and Technologies](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-tools-&-technologies)
 
--[Key Concepts and Skills](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#key-concepts-and-skills-demonstrated)
+-[Key Concepts and Skills](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-key-concepts-and-skills-demonstrated)
 
--[Sample Insights uncovered](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#sample-insights-uncovered)
+-[Sample Insights uncovered](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-sample-insights-uncovered)
 
 ## 🎬 Maven Movies — SQL Data Analysis Project
 
