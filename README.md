@@ -2,23 +2,27 @@
 
 ## Table of Contents
 
--[Overview: Role & Project Scope](#Role) 
+-[Overview: Role](#role) 
 
--[Data Sources](#Data-source)
+-[Overview: Project Scope](#project-scope) 
 
--[Tools and Technologies](#tools-and-technologies)
+-[Data Sources](#data-source)
+
+-[Tools and Technologies](#tools-&-technologies)
 
 -[Key Concepts and Skills](#key-concepts-and-skills-demonstrated)
 
-# 🎬 Maven Movies — SQL Data Analysis Project
+-[Sample Insights uncovered](#sample-insights-uncovered)
 
-## 📍 Role: Data Analyst (Business Owner Simulation)
+## 🎬 Maven Movies — SQL Data Analysis Project
+
+### 📍 Role: Data Analyst (Business Owner Simulation)
 
 In this project, I stepped into the role of a business owner who had just acquired **Maven Movies**, a traditional DVD rental store. I aimed to explore the business using SQL to uncover insights into **inventory management**, **staff performance**, and **customer behavior**.
 
 ---
 
-## 🧩 Project Scope
+### 🧩 Project Scope
 
 - **Objective**: Analyze business operations and performance metrics using SQL
 - **Database**: 16 interrelated tables including rentals, inventory, payments, and customers
@@ -26,7 +30,7 @@ In this project, I stepped into the role of a business owner who had just acquir
 
 ---
 
-## 💾 Data Source
+### 💾 Data Source
 
 - **Database Name**: `create_mavenmovies`
 - **Content**: Includes 16 tables on customers, films, inventory, payments, rentals, staff, and stores
@@ -34,19 +38,19 @@ In this project, I stepped into the role of a business owner who had just acquir
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 - **SQL (MySQL)** – Core querying and data manipulation
 - **MySQL Workbench** – IDE for database exploration and analysis
 
 ---
 
-## 🧠 What I Did
+### 🧠 What I Did
 I began with foundational SQL queries—selecting, filtering, and aggregating data—to familiarize myself with the database. I then advanced into more complex scenarios involving multi-table joins, subqueries, and data transformation techniques to solve practical business problems.
 
 ---
 
-## 🧠 Key Concepts & Skills Demonstrated
+### 🧠 Key Concepts & Skills Demonstrated
 
 - SQL querying fundamentals: `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `HAVING`
 - Advanced joins: `INNER`, `LEFT`, `RIGHT`
@@ -58,7 +62,7 @@ I began with foundational SQL queries—selecting, filtering, and aggregating da
 
 ---
 
-## 📊 Sample Insights Uncovered
+### 📊 Sample Insights Uncovered
 
 | Insight Area            | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
