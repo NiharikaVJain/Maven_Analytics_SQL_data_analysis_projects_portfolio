@@ -8,7 +8,7 @@
 
 -[Data Sources](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-data-source)
 
--[Entity Relationship Diagram](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#%EF%B8%8F-entity-relationship-diagram-erd)
+-[Entity Relationship Diagram](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#%EF%B8%8F-entity-relationship-diagram)
 
 -[Tools and Technologies](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-tools--technologies)
 
