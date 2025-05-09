@@ -8,6 +8,8 @@
 
 -[Data Sources](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-data-source)
 
+-[Entity Relationship Diagram (ERD)]
+
 -[Tools and Technologies](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-tools--technologies)
 
 -[Key Concepts and Skills](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-key-concepts--skills-demonstrated)
@@ -35,6 +37,33 @@ In this project, I stepped into the role of a business owner who had just acquir
 - **Database Name**: `create_mavenmovies`
 - **Content**: Includes 16 tables on customers, films, inventory, payments, rentals, staff, and stores
 - **Setup**: Imported and analyzed using MySQL Workbench
+- [Maven Analytics – Maven Movies Dataset](https://www.mavenanalytics.io/data-playground?page=2&dataset=maven-movies)
+
+---
+### 🗂️ Entity Relationship Diagram (ERD)
+The ER Diagram provides a visual representation of the database schema used in the Maven Movies project. It helps in understanding how different tables are related to each other and supports effective query planning and data analysis.
+
+Key Tables:
+
+customer, rental, payment – represent the transactional flow of rentals and payments.
+
+film, category, inventory – detail the movie catalog and stock.
+
+store, staff – define the organizational structure.
+
+actor, film_actor – represent many-to-many relationships between actors and films.
+
+The ERD makes it easier to:
+
+Identify foreign key relationships
+
+Understand one-to-many and many-to-many links
+
+Build efficient SQL joins across the schema
+
+📌 Refer to the diagram below to visualize the database structure used for SQL queries:
+
+
 
 ---
 
