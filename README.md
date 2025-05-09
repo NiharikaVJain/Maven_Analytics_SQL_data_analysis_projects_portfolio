@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--[Overview: Role](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-role) 
+-[Overview: Role](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-role-data-analyst-business-owner-simulation) 
 
 -[Overview: Project Scope](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-project-scope) 
 
