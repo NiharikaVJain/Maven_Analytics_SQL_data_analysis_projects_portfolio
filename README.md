@@ -1,4 +1,4 @@
-# Maven_Analytics_SQL_data_analysis_projects_portfolio
+# Maven_Analytics_SQL_data_analysis_MavenMovies
 
 ## Table of Contents
 
