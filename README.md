@@ -102,6 +102,18 @@ I began with foundational SQL queries—selecting, filtering, and aggregating da
 | 🧾 Revenue & Payments    | Evaluated revenue by store, category, and customer demographics            |
 
 ---
-### References
+### 📚 References
 
-- 
+- [Maven Analytics – Maven Movies Dataset](https://mavenanalytics.io/data-playground)
+Source of the fictional SQL-based movie rental dataset used for analysis.
+
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+Official documentation for MySQL syntax, queries, and functions used throughout this project.
+
+- [GitHub Documentation](https://docs.github.com/en)
+Official documentation for GitHub provides in-depth resources for using GitHub features like repositories, pull requests, issues, actions, and Git version control.
+
+- [Stack Overflow](https://stackoverflow.com/questions)
+A community-driven platform that provided solutions and explanations for SQL challenges encountered during the analysis.
+
+---
