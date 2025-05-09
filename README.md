@@ -61,7 +61,7 @@ Understand one-to-many and many-to-many links
 
 Build efficient SQL joins across the schema
 
-📌 Refer to the diagram below to visualize the database structure used for SQL queries:
+📌 Referring to the diagram below to visualize the database structure used for SQL queries:
 
 ![Image](https://github.com/user-attachments/assets/8fd97df9-e9dc-44ab-90ee-df147a74e947)
 
@@ -102,4 +102,6 @@ I began with foundational SQL queries—selecting, filtering, and aggregating da
 | 🧾 Revenue & Payments    | Evaluated revenue by store, category, and customer demographics            |
 
 ---
+### References
 
+- 
