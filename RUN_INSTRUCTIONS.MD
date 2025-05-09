@@ -1,7 +1,7 @@
 ### ▶️ How to Run the Code
 This guide walks you through how to set up and run the SQL analysis in this project using MySQL Workbench.
 
-###📦 Step 1: Install MySQL & Workbench
+### 📦 Step 1: Install MySQL & Workbench
 
 If you haven’t already:
 
