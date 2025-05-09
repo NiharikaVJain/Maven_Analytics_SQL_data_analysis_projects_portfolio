@@ -44,37 +44,12 @@ Run each query block and inspect the results in the output panel
 
 🔍 Each file is organized with clear headers and comments to help you understand what each query does.
 
-## 🧭 Visual Setup Guide (Flowchart)
-Here’s the setup as a simple 4-step visual flow. Would you like this as a PNG image for your GitHub README or project folder?
+### ✅ Example Output to Generate:
 
-plaintext
-Copy
-Edit
-+-------------------------+
-| 1. Install MySQL &     |
-|    MySQL Workbench     |
-+-------------------------+
-           ↓
-+-------------------------+
-| 2. Load create_         |
-|    mavenmovies.sql      |
-|    into MySQL Workbench |
-+-------------------------+
-           ↓
-+-------------------------+
-| 3. Open /queries/*.sql  |
-|    Run and explore data |
-+-------------------------+
-           ↓
-+-------------------------+
-| 4. Export results or    |
-|    visualize (optional) |
-+-------------------------+
+1. Top 10 most rented films
 
+2. Monthly rental trends (line graph)
 
-✅ Example Output to Generate:
+3. Staff revenue leaderboard (bar chart)
 
-1.Top 10 most rented films
-2.Monthly rental trends (line graph)
-3.Staff revenue leaderboard (bar chart)
-4.Customer spending heatmap
+4. Customer spending heatmap
