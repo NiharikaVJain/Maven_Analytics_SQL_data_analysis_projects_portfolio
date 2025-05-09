@@ -1,7 +1,7 @@
-▶️ How to Run the Code
+### ▶️ How to Run the Code
 This guide walks you through how to set up and run the SQL analysis in this project using MySQL Workbench.
 
-📦 Step 1: Install MySQL & Workbench
+###📦 Step 1: Install MySQL & Workbench
 
 If you haven’t already:
 
@@ -11,7 +11,7 @@ Download MySQL Workbench: https://dev.mysql.com/downloads/workbench/
 
 💡 You can also use other SQL tools like DBeaver or Azure Data Studio if you prefer.
 
-🗃 Step 2: Import the Maven Movies Database
+### 🗃 Step 2: Import the Maven Movies Database
 
 Open MySQL Workbench
 
@@ -24,7 +24,7 @@ Select your new schema and run the SQL script to create all 16 tables and insert
 
 ✅ The database includes tables like customer, rental, inventory, film, payment, store, etc.
 
-📂 Step 3: Run Analysis Queries
+### 📂 Step 3: Run Analysis Queries
 
 Open any SQL file from the /queries/ folder:
 
@@ -44,7 +44,7 @@ Run each query block and inspect the results in the output panel
 
 🔍 Each file is organized with clear headers and comments to help you understand what each query does.
 
-### 🧭 Visual Setup Guide (Flowchart)
+## 🧭 Visual Setup Guide (Flowchart)
 Here’s the setup as a simple 4-step visual flow. Would you like this as a PNG image for your GitHub README or project folder?
 
 plaintext
