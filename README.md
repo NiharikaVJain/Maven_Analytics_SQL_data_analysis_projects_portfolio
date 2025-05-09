@@ -8,7 +8,7 @@
 
 -[Data Sources](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-data-source)
 
--[Entity Relationship Diagram (ERD)] (https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-entity-relationship-diagram-erd)
+-[Entity Relationship Diagram](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#%EF%B8%8F-entity-relationship-diagram-erd)
 
 -[Tools and Technologies](https://github.com/NiharikaVJain/Maven_Analytics_SQL_data_analysis_projects_portfolio/blob/main/README.md#-tools--technologies)
 
@@ -40,7 +40,7 @@ In this project, I stepped into the role of a business owner who had just acquir
 - [Maven Analytics – Maven Movies Dataset](https://www.mavenanalytics.io/data-playground?page=2&dataset=maven-movies)
 
 ---
-### 🗂️ Entity Relationship Diagram (ERD)
+### 🗂️ Entity Relationship Diagram
 The ER Diagram provides a visual representation of the database schema used in the Maven Movies project. It helps in understanding how different tables are related to each other and supports effective query planning and data analysis.
 
 Key Tables:
