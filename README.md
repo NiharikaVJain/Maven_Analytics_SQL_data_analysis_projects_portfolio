@@ -37,7 +37,7 @@ In this project, I stepped into the role of a business owner who had just acquir
 - **Database Name**: `create_mavenmovies`
 - **Content**: Includes 16 tables on customers, films, inventory, payments, rentals, staff, and stores
 - **Setup**: Imported and analyzed using MySQL Workbench
-- [Maven Analytics – Maven Movies Dataset](https://www.mavenanalytics.io/data-playground?page=2&dataset=maven-movies)
+- **Source** : [Maven Analytics – Maven Movies Dataset](https://www.mavenanalytics.io/data-playground?page=2&dataset=maven-movies)
 
 ---
 ### 🗂️ Entity Relationship Diagram
